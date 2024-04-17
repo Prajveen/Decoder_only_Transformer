@@ -5,7 +5,9 @@ from inference2 import *
 # Streamlit app logic
 def main():
     # Add an image to the page
-    st.image("app/image.png", width=600, use_column_width=False)
+    col1, col2, col3 = st.columns([1,2,1])  # Create three columns
+    with col2:  # Center the image in the middle column
+        st.image("app/image.png", use_column_width=True)
 
     # Add input for start word
     start_word = st.text_input("Enter a start word for story generation:")
