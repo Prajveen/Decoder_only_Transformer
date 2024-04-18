@@ -35,11 +35,11 @@ Adjust hyperparameters, such as learning rate and batch size, as needed.
 Use the trained model to generate text by providing an initial prompt.
 The model predicts the next token based on the context.
 
+## 🛠 Skills
+Artificial Intelligence, Generative AI, Deep Learning...
+
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/prajveen)
 [![Github](https://img.shields.io/badge/github-1DA1F2?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/prajveen)
 
-
-## 🛠 Skills
-Artificial Intelligence, Generative AI, Deep Learning...
 
